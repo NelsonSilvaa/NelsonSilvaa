@@ -1,4 +1,4 @@
-# Olá! eu sou Nelson, desenvolvedor de software back-end em desenvolvimento!
+# Olá! eu sou Nelson, desenvolvedor de software back-end!
 <div>
    <a href="https://github.com/NelsonSilvaa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonSilvaa&layout=compact&langs_count=6&theme=tokyonight"/>
